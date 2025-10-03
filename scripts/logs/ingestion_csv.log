@@ -1,0 +1,3 @@
+2025-08-16 18:15:18,500 - INFO - Ingesting flights_sample_3m.csv with 3000000 rows and 32 columns
+2025-08-16 18:15:18,502 - INFO - Total time taken: 25.40 seconds
+2025-08-16 18:15:18,502 - INFO - Ingestion Complete
